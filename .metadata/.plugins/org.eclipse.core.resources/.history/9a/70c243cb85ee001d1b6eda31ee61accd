@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.order.api.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.order.api.entity.Order;
+
+/**
+ * @author Jeena A V
+ *
+ */
+public interface OrderRepository extends JpaRepository<Order, Integer> {
+
+}

@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.order.api.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.order.api.repository.OrderRepository;
+
+/**
+ * @author Jeena A V
+ *
+ */
+public class OrderServiceImpl implements OrderService{
+	@Autowired
+	private OrderRepository orderRepository;
+
+}

@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.order.api.service;
+
+import org.springframework.stereotype.Service;
+
+/**
+ * @author Jeena A V
+ *
+ */
+@Service
+public interface OrderService {
+
+}

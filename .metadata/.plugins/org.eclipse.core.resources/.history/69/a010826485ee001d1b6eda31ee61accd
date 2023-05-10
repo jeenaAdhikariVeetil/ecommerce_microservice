@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.payment.api.controller;
+
+/**
+ * @author Jeena A V
+ *
+ */
+public class PaymentController {
+
+}

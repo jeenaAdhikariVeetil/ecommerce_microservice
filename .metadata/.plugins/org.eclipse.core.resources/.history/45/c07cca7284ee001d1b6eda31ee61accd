@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.payment.api.repository;
+
+/**
+ * @author Jeena A V
+ *
+ */
+public interface PaymentRepositiry {
+
+}

@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.payment.api.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.payment.api.entity.Payment;
+
+/**
+ * @author Jeena A V
+ *
+ */
+public interface PaymentRepositiry extends JpaRepository<Payment, Integer>{
+
+}

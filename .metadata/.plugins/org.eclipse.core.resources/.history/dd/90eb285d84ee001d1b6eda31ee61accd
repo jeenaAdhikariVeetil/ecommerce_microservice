@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.payment.api.entity;
+
+/**
+ * @author Jeena A V
+ *
+ */
+public class Payment {
+
+}

@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.order.api.entity;
+
+/**
+ * @author Jeena A V
+ *
+ */
+public class Order {
+
+}
